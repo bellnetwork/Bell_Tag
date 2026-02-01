@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=65.5.1", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bell_tag"
+version = "1.0.0"
+description = "Bell Tag tracking for Flask with automatic verification"
+authors = [
+    { name="Bell Network", email="support@belltagmanager.com" }
+]
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+dependencies = [
+    "requests>=2.31.0",
+    "Flask>=2.3.0"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+[tool.setuptools.packages.find]
+where = ["bell_tag"]
