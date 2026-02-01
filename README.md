@@ -1,8 +1,8 @@
 # Bell Tag
 
-[![PyPI version](https://img.shields.io/pypi/v/bell_tag)](https://pypi.org/project/bell_tag/)
-[![Python Version](https://img.shields.io/pypi/pyversions/bell_tag)](https://pypi.org/project/bell_tag/)
-[![License](https://img.shields.io/pypi/l/bell_tag)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://img.shields.io/pypi/v/bell-tag)](https://pypi.org/project/bell-tag/)
+[![Python Version](https://img.shields.io/pypi/pyversions/bell-tag)](https://pypi.org/project/bell-tag/)
+[![License](https://img.shields.io/pypi/l/bell-tag)](https://opensource.org/licenses/MIT)
 
 **Bell Tag** is a lightweight, secure, and modern Python analytics tracking library for Flask applications.  
 It allows you to track page views, events, clicks, forms, and user navigation **without exposing credentials**. Verification happens automatically on first usage.
