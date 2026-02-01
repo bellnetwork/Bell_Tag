@@ -1,6 +1,0 @@
-setup.py
-bell_tag.egg-info/PKG-INFO
-bell_tag.egg-info/SOURCES.txt
-bell_tag.egg-info/dependency_links.txt
-bell_tag.egg-info/requires.txt
-bell_tag.egg-info/top_level.txt
