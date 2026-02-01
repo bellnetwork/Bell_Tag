@@ -50,3 +50,8 @@ Bell Tag takes user privacy and data security seriously:
 
 ```bash
 pip install bell_tag
+```
+Or 
+```bash
+pip install bell_tag --break-system-packages
+```
