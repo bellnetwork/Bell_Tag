@@ -55,3 +55,13 @@ Or
 ```bash
 pip install bell_tag --break-system-packages
 ```
+
+## Usage
+```bash
+from bell_tag import bell_tag, create_before_request_handler
+
+@app.route('/dashboard')
+@bell_tag
+def dashboard():
+    return "Welcome to the Dashboard"
+```
