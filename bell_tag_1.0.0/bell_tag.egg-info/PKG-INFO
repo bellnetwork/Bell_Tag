@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: bell_tag
+Version: 1.0.0
+Summary: Bell Tag Analytics Python package for automatic server-side tracking.
+Home-page: https://belltagmanager.com
+Author: Bell Network
+Author-email: support@bellnetwork.eu
+License: MIT
+Requires-Python: >=3.9
+Requires-Dist: requests>=2.28.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
